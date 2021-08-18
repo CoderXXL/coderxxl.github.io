@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+h1 {
+  text-align: center;
+  margin-top: 25%;
+  color: white;
+  font-size: 100px;
+}
+canvas {
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  position: fixed;
+  z-index: -1;
+}
